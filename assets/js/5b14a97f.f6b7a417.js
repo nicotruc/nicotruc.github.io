@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunknicotruc_website_docusaurus=self.webpackChunknicotruc_website_docusaurus||[]).push([[358],{1841:e=>{e.exports=JSON.parse('{"permalink":"/blog/tags/dummy","page":1,"postsPerPage":10,"totalPages":1,"totalCount":1,"blogDescription":"Blog","blogTitle":"Blog"}')}}]);

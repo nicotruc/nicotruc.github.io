@@ -4,19 +4,10 @@
         <title>Nicotruc Blog</title>
         <link>https://nicotruc.github.io/blog</link>
         <description>Nicotruc Blog</description>
-        <lastBuildDate>Wed, 06 Jul 2022 21:16:17 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 06 Jul 2022 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>fr</language>
-        <item>
-            <title><![CDATA[Dummy]]></title>
-            <link>https://nicotruc.github.io/blog/dummy</link>
-            <guid>dummy</guid>
-            <pubDate>Wed, 06 Jul 2022 21:16:17 GMT</pubDate>
-            <description><![CDATA[Bienvenue sur mon blog !]]></description>
-            <content:encoded><![CDATA[<p>Bienvenue sur mon <code>blog</code> !</p><p>J'ai décidé de me lancer dans la rédaction de ce blog pour vous partager mes experiences devops. </p><p>On le sait, <strong>nos outils évoluent extrêmement vite</strong>, et il est parfois compliqué d'avoir des examples et des avis sur certains outils. <strong>J'ai pour ma part souvent aimé lire les articles passionnants</strong> de nos confrères. <strong>J'espère que moi aussi je saurais vous intéresser</strong> et vous faire découvrir des solutions nouvelles et des méthodologies différentes</p><h2 class="anchor anchorWithStickyNavbar_LWe7" id="qui-suis-je-">Qui suis-je ?<a class="hash-link" href="#qui-suis-je-" title="Lien direct vers le titre">​</a></h2><p>Je me présente, je m'appelle Nicolas, j'ai 26 ans et je suis devops. Je travaille beaucoup sur des environnements Openshift et Gitlab, et je cherche à me spécialiser sur une partie plus Cloud Public, notamment avec GCP.</p><p>A bientôt pour mon premier article technique !</p>]]></content:encoded>
-            <category>dummy</category>
-        </item>
         <item>
             <title><![CDATA[Bienvenue]]></title>
             <link>https://nicotruc.github.io/blog/welcome</link>
