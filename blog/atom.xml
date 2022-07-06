@@ -2,11 +2,24 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://nicotruc.github.io/blog</id>
     <title>Nicotruc Blog</title>
-    <updated>2022-07-06T00:00:00.000Z</updated>
+    <updated>2022-07-06T21:16:17.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://nicotruc.github.io/blog"/>
     <subtitle>Nicotruc Blog</subtitle>
     <icon>https://nicotruc.github.io/img/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Dummy]]></title>
+        <id>dummy</id>
+        <link href="https://nicotruc.github.io/blog/dummy"/>
+        <updated>2022-07-06T21:16:17.000Z</updated>
+        <summary type="html"><![CDATA[Bienvenue sur mon blog !]]></summary>
+        <content type="html"><![CDATA[<p>Bienvenue sur mon <code>blog</code> !</p><p>J'ai décidé de me lancer dans la rédaction de ce blog pour vous partager mes experiences devops. </p><p>On le sait, <strong>nos outils évoluent extrêmement vite</strong>, et il est parfois compliqué d'avoir des examples et des avis sur certains outils. <strong>J'ai pour ma part souvent aimé lire les articles passionnants</strong> de nos confrères. <strong>J'espère que moi aussi je saurais vous intéresser</strong> et vous faire découvrir des solutions nouvelles et des méthodologies différentes</p><h2 class="anchor anchorWithStickyNavbar_LWe7" id="qui-suis-je-">Qui suis-je ?<a class="hash-link" href="#qui-suis-je-" title="Lien direct vers le titre">​</a></h2><p>Je me présente, je m'appelle Nicolas, j'ai 26 ans et je suis devops. Je travaille beaucoup sur des environnements Openshift et Gitlab, et je cherche à me spécialiser sur une partie plus Cloud Public, notamment avec GCP.</p><p>A bientôt pour mon premier article technique !</p>]]></content>
+        <author>
+            <name>Nicotruc</name>
+            <uri>nicotruc.github.io</uri>
+        </author>
+        <category label="dummy" term="dummy"/>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Bienvenue]]></title>
         <id>welcome</id>
