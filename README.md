@@ -1,5 +1,5 @@
 # Website
-[![Generate site](https://github.com/nicotruc/nicotruc.github.io/actions/workflows/deploy.yml/badge.svg?branch=master)](https://github.com/nicotruc/nicotruc.github.io/actions/workflows/deploy.yml)
+[![Generate site and push to Github Pages](https://github.com/nicotruc/nicotruc.github.io/actions/workflows/deploy.yml/badge.svg)](https://github.com/nicotruc/nicotruc.github.io/actions/workflows/deploy.yml)
 [![nicotruc.github.io deployment](https://github.com/nicotruc/nicotruc.github.io/actions/workflows/pages/pages-build-deployment/badge.svg)](https://github.com/nicotruc/nicotruc.github.io/actions/workflows/pages/pages-build-deployment)
 
 Here is my website. You can check it at https://nicotruc.github.io.
