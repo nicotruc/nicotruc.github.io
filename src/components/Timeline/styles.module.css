@@ -1,0 +1,15 @@
+.timeline {
+  display: flex;
+  align-items: center;
+  padding: 2rem 0;
+  width: 100%;
+}
+
+.timelineSection {
+  padding: 40px 0px
+}
+
+.timelineSvg {
+  height: 200px;
+  width: 200px;
+}
