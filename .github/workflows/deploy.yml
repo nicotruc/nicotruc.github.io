@@ -1,4 +1,4 @@
-name: Deploy to GitHub Pages
+name: Generate site and push to Github Pages
 
 on:
   push:
